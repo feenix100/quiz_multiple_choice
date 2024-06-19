@@ -1,4 +1,4 @@
-This is an customizable, easy to use, multiple choice quiz written in javascript. No need to install anything.
+This is a customizable, easy to use, multiple choice quiz written in javascript. No need to install anything.
 
 1. Modify the script.js file to add your own custom questions or feed it to chat gpt and let it add questions for you.
 
